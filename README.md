@@ -59,7 +59,9 @@ This repository implements a **Retrieval-Augmented Generation (RAG)** system des
 [       ▼                                                   ]
 [   LLM Generation  ──►  Final Answer + Citations           ]
 </pre>
-  
+
+<br>
+
 **Phase 1 – 🔴 Offline Ingestion & Indexing**
 - **Collect documents**: The knowledge base (FAQs, policies, instruction-response pairs).
 - **Chunk the documents**: Split into smaller, manageable pieces.
